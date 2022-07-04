@@ -11,12 +11,21 @@ https://www.kaggle.com/datasets/hellbuoy/car-price-prediction?select=CarPrice_As
 
 **Pasos para ejecutar el dataset en google Colab**:
 
+- Ir al enlace de Kaggle anterior y descargar el dataset desde el botón ``Download``
+
+- Descomprimir el `.zip` y guardar el archivo `CarPrice_Assignment`
+
+- Dentro del google Colab, cargar el archivo desde la carperta `Archivos`
+
+- Posteriormente se ejecuta el siguiente bloque de código:
 ```
 import pandas as pd
 import numpy as np
 df = pd.read_csv("CarPrice_Assignment.csv")
 df
 ```
+
+En este punto, se puede visualizar el dataset completo, y modificar según los requerimientos.
 
 
 ## Videos
