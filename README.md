@@ -11,4 +11,12 @@ https://www.kaggle.com/datasets/hellbuoy/car-price-prediction?select=CarPrice_As
 
 **Pasos para ejecutar el dataset en google Colab**:
 
+```
+import pandas as pd
+import numpy as np
+df = pd.read_csv("CarPrice_Assignment.csv")
+df
+```
+
+
 ## Videos
