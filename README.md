@@ -37,3 +37,6 @@ En este punto, se puede visualizar el dataset completo, y modificar según los r
 
 
 ## Videos
+
+Video de la segunda entrega: https://www.youtube.com/watch?v=5wVU5wUt4JQ
+
