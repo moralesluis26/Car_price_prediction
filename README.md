@@ -40,3 +40,5 @@ En este punto, se puede visualizar el dataset completo, y modificar según los r
 
 Video de la segunda entrega: https://www.youtube.com/watch?v=5wVU5wUt4JQ
 
+Video entrega final: https://youtu.be/dHOA3ZKtB6c
+
