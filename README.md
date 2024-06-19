@@ -2,7 +2,7 @@
 
 **Nombre**: Luis David Morales Aguilar
 
-**CC**: 1214746438
+
 
 **Programa**: Ingeniería de materiales
 
